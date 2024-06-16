@@ -5,11 +5,12 @@ body{
 
 button:hover{
     color:blue;
-    transition: 1s;
+    transition: 0.6s;
 }
 button{
     color: white;
     background-color: black;
+    transition:background 700ms;
 }
 
 .calculator{
